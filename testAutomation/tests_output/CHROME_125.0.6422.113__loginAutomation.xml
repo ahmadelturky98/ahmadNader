@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="7">
+
+  <testsuite name="loginAutomation"
+    errors="0" failures="0" hostname="" id="" package="loginAutomation" skipped="0"
+    tests="7" time="38.08" timestamp="">
+  
+    <testcase name="Navigate Method" classname="loginAutomation" time="0.8850" assertions="0">
+    </testcase>
+  
+    <testcase name="Login with Valid Credentials" classname="loginAutomation" time="1.583" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Login with Invalid Username then with Valid Username" classname="loginAutomation" time="1.569" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Login with Invalid Password then with Valid Password" classname="loginAutomation" time="1.669" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Login with Empty Fields then with Valid Credentials" classname="loginAutomation" time="2.708" assertions="7">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Login with Lockedout User" classname="loginAutomation" time="1.733" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Login with Differenet User then Repeat" classname="loginAutomation" time="8.890" assertions="12">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>
